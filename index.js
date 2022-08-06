@@ -12,3 +12,6 @@
     var int_2 = prompt("Enter another number: ")
     console.log(gcf(int_1, int_2));
 }());
+
+ 
+
